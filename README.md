@@ -1,1 +1,1 @@
-# Muffinland.github.io
+socks4://105.214.58.240:5678
